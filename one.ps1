@@ -1,2 +1,3 @@
 git status
-git add .
+git add
+git commit -m "My first commit"
